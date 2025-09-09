@@ -1,7 +1,7 @@
 # R-Studio Technician – Comprehensive Data Recovery for Professionals
 
 <p align="center">
-  <img src="https://images.seeklogo.com/logo-png/43/2/r-studio-logo-png_seeklogo-431724.png" alt="R-Studio Technician Logo"/>
+  <img src="https://pcsoftware.eu/1641-large_default/r-studio-technician.jpg" alt="R-Studio Technician Logo"/>
 </p>
 
 <p align="center">
